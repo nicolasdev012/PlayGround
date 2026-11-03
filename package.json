@@ -1,0 +1,8 @@
+{
+  "name": "miguel-apocalipse-a-la-carte",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
